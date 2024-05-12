@@ -78,3 +78,67 @@ openfoam2206
 ```console
 echo 'shopt -s direxpand' >> .bashrc
 ```
+
+## 6 - Reduced version of Rheotool (https://github.com/fppimenta/rheoTool/)
+
+[![System Setup](images/6.png)](http://www.youtube.com/watch?v=6NyOLJvoeE0 "System preparation")
+
+Move to the home folder
+```console
+cd
+```
+
+6.1 install zip utility
+
+```console
+sudo apt-get install zip
+```
+
+6.2 Copy and unzip the Reduced version of Rheotool from the course repository
+
+```console
+wget https://github.com/Computational-Rheology/PPS39_OFCourse/raw/main/4-Case_studies_Viscoelastic_fluid_flow_solvers/rheotoolPPS39.zip
+```
+
+```console
+unzip rheotoolPPS39.zip
+```
+
+6.3 Load openFOAM environment
+
+```console
+openfoam2206
+```
+
+6.4 Change to the rheotoolPPS39 folder
+
+```console
+cd rheotoolPPS39
+```
+
+6.5 Change to the rheotoolPPS39 folder
+```console
+./downloadEigen
+```
+
+6.6 Copy and run the recommended command, e.g.
+
+> echo "export EIGEN_RHEO=/home/<username>/OpenFOAM/<username>-v2206/ThirdParty/Eigen3.2.9">>/home/<username>/.bashrc
+
+6.7 load the .bashrc file
+
+```console
+. ~/.bashrc
+```
+
+6.8 Change to the src folder
+
+```console
+cd src
+```
+
+6.9 Compile the Rheotool
+
+```console
+./Allwmake
+```
