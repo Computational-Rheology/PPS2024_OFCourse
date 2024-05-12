@@ -4,11 +4,7 @@ Introduction to OpenFOAM® Computational Library and Viscoelastic Fluid Flow Sim
 
 ## 1 - System preparation
 
-Whatch this video:
-
 [![System Setup](images/1.png)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
-
-**Main steps presented in the video**:
 
 Open *Windows PowerShell* as Administrator and run the following command:
 ```console
@@ -25,18 +21,18 @@ To finalize this step open again PowerShell as Administrator and run the followi
 ```console
 wsl --set-default-version 2
 ```
-
+---
+---
 ## 2 - Install Windows Subsystem Linux (WSL)
 
 [![System Setup](images/2.png)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
-
-**Main steps presented in the video**:
 
 Run the following command in Windows *Command prompt*
 ```console
 wsl –-install -d Ubuntu-22.04
 ```
-
+---
+---
 ## 3 - Install Windows Subsystem Linux (WSL)
 
 [![System Setup](images/3.png)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
@@ -45,12 +41,15 @@ Run the following command in Windows *Command prompt*
 ```console
 wsl –-install -d Ubuntu-22.04
 ```
+---
+---
 ## 4 - Install Paraview 5.12
 
 [![System Setup](images/4.png)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
 
 Installation website: https://www.paraview.org/download/
-
+---
+---
 ## 5 - OpenFOAM v22.06
 
 [![System Setup](images/5.png)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
