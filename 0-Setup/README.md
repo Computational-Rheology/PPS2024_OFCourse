@@ -2,13 +2,13 @@
 Introduction to OpenFOAM® Computational Library and Viscoelastic Fluid Flow Simulation
 
 
-## 0 - System preparation
-Whatch this video
+## 1 - System preparation
 
-[![System Setup](https://img.youtube.com/vi/-UVMnzBTUXg/0.jpg)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
+Whatch this video:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![System Setup](images/1.png)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
 
+**Main steps presented in the video**:
 
 Open *Windows PowerShell* as Administrator and run the following command:
 ```console
@@ -26,9 +26,51 @@ To finalize this step open again PowerShell as Administrator and run the followi
 wsl --set-default-version 2
 ```
 
-## 1 - Install Windows Subsystem Linux (WSL)
+## 2 - Install Windows Subsystem Linux (WSL)
+
+[![System Setup](images/2.png)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
+
+**Main steps presented in the video**:
 
 Run the following command in Windows *Command prompt*
 ```console
-> wsl –-install -d Ubuntu-22.04
+wsl –-install -d Ubuntu-22.04
+```
+
+## 3 - Install Windows Subsystem Linux (WSL)
+
+[![System Setup](images/3.png)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
+
+Run the following command in Windows *Command prompt*
+```console
+wsl –-install -d Ubuntu-22.04
+```
+## 4 - Install Paraview 5.12
+
+[![System Setup](images/4.png)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
+
+Installation website: https://www.paraview.org/download/
+
+## 5 - OpenFOAM v22.06
+
+[![System Setup](images/5.png)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
+
+5.1 - Add the repository
+```console
+curl https://dl.openfoam.com/add-debian-repo.sh | sudo bash
+```
+
+5.2 - Update the repository information
+```console
+sudo apt-get update
+```
+
+5.3 - install precompiled OpenFOAM v22.06
+```console
+sudo apt-get install openfoam2206-default
+```
+
+5.4 - To open the OpenFOAM shell session:
+```console
+openfoam2206
 ```
