@@ -33,7 +33,7 @@ wsl –-install -d Ubuntu-22.04
 ```
 ---
 ---
-## 3 - Install Windows Subsystem Linux (WSL)
+## 3 - Install Visual Studio Code (VSCode)
 
 [![System Setup](images/3.png)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
 
