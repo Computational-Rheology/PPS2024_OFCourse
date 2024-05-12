@@ -74,7 +74,7 @@ sudo apt-get install openfoam2206-default
 openfoam2206
 ```
 
-5.5 - information of add to the end of the .bashrc file
+5.5 - run the following command in linux at the home folder
 ```console
 echo 'shopt -s direxpand' >> .bashrc
 ```
