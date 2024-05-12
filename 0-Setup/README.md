@@ -123,7 +123,7 @@ cd rheotoolPPS39
 
 6.6 Copy and run the recommended command, e.g.
 
-> echo "export EIGEN_RHEO=/home/<username>/OpenFOAM/<username>-v2206/ThirdParty/Eigen3.2.9">>/home/<username>/.bashrc
+> echo "export EIGEN_RHEO=/home/userName/OpenFOAM/userName-v2206/ThirdParty/Eigen3.2.9">>/home/userName/.bashrc
 
 6.7 load the .bashrc file
 
