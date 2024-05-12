@@ -5,7 +5,7 @@ Introduction to OpenFOAM® Computational Library and Viscoelastic Fluid Flow Sim
 ## 0 - System preparation
 Whatch this video
 
-[![System Setup](https://img.youtube.com/vi/-UVMnzBTUXg/0.jpg)](http://www.youtube.com/watch?v=-UVMnzBTUXg"System preparation")
+[![System Setup](https://img.youtube.com/vi/-UVMnzBTUXg/0.jpg)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
