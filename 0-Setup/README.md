@@ -81,7 +81,7 @@ echo 'shopt -s direxpand' >> .bashrc
 
 ## 6 - Reduced version of Rheotool (https://github.com/fppimenta/rheoTool/)
 
-[![System Setup](images/6.png)](http://www.youtube.com/watch?v=6NyOLJvoeE0 "System preparation")
+[![System Setup](images/6.png)](http://www.youtube.com/watch?v=nNpOZfB-Qso "System preparation")
 
 Move to the home folder
 ```console
