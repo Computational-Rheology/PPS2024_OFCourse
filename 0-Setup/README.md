@@ -4,7 +4,7 @@ Introduction to OpenFOAM® Computational Library and Viscoelastic Fluid Flow Sim
 
 ## 1 - System preparation
 
-[![System Setup](images/1.png)](http://www.youtube.com/watch?v=CfjhF3RAHiw "System preparation")
+[![System Setup](images/1.png)](http://www.youtube.com/watch?v=m18Arh-FQp0 "System preparation")
 
 Open *Windows PowerShell* as Administrator and run the following command:
 ```console
@@ -23,9 +23,9 @@ wsl --set-default-version 2
 ```
 ---
 ---
-## 2 - Install Windows Subsystem Linux (WSL)
+## 2 - Windows Subsystem Linux (WSL)
 
-[![System Setup](images/2.png)](http://www.youtube.com/watch?v=03MKPOD6puA "System preparation")
+[![System Setup](images/2.png)](http://www.youtube.com/watch?v=if1bGC5suqg "System preparation")
 
 Run the following command in Windows *Command prompt*
 ```console
@@ -33,9 +33,9 @@ wsl –-install -d Ubuntu-22.04
 ```
 ---
 ---
-## 3 - Install Visual Studio Code (VSCode)
+## 3 - Visual Studio Code (VSCode)
 
-[![System Setup](images/3.png)](http://www.youtube.com/watch?v=if1bGC5suqg "System preparation")
+[![System Setup](images/3.png)](http://www.youtube.com/watch?v=03MKPOD6puA "System preparation")
 
 Installation website:
 ```console
@@ -43,9 +43,9 @@ https://code.visualstudio.com/
 ```
 ---
 ---
-## 4 - Install Paraview 5.12
+## 4 - Paraview 5.12
 
-[![System Setup](images/4.png)](http://www.youtube.com/watch?v=m18Arh-FQp0 "System preparation")
+[![System Setup](images/4.png)](http://www.youtube.com/watch?v=CfjhF3RAHiw  "System preparation")
 
 Installation website: https://www.paraview.org/download/
 ---
