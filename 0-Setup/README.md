@@ -37,9 +37,9 @@ wsl –-install -d Ubuntu-22.04
 
 [![System Setup](images/3.png)](http://www.youtube.com/watch?v=-UVMnzBTUXg "System preparation")
 
-Run the following command in Windows *Command prompt*
+Installation website:
 ```console
-wsl –-install -d Ubuntu-22.04
+https://code.visualstudio.com/
 ```
 ---
 ---
