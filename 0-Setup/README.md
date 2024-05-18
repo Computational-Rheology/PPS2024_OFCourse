@@ -97,7 +97,7 @@ sudo apt-get install zip
 6.2 Copy and unzip the Reduced version of Rheotool from the course repository
 
 ```console
-wget https://github.com/Computational-Rheology/PPS39_OFCourse/raw/main/4-Case_studies_Viscoelastic_fluid_flow_solvers/rheotoolPPS39.zip
+wget https://github.com/Computational-Rheology/PPS39_OFCourse/raw/main/0-Setup/rheotoolPPS39.zip
 ```
 
 ```console
