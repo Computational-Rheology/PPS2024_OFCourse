@@ -1,9 +1,0 @@
-Script to join multiple STL files in a single one.
-
-Usage:
-1º Place the stl files into the folder FilesToJoin/
-2º Make the file uniqueSTL.X executable by doing: chmod +x uniqueSTL.X
-3º Load OpenFOAM
-4º Execute python3 JoinStlFiles.py
-5º Execute ./uniqueSTL.X
-
