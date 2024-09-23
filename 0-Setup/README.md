@@ -1,4 +1,4 @@
-# PPS39 OpenFOAM Course
+# PPS2024 OpenFOAM Course
 Introduction to OpenFOAM® Computational Library and Viscoelastic Fluid Flow Simulation
 
 
@@ -97,11 +97,11 @@ sudo apt-get install zip
 6.2 Copy and unzip the Reduced version of Rheotool from the course repository
 
 ```console
-wget https://github.com/Computational-Rheology/PPS39_OFCourse/raw/main/0-Setup/rheotoolPPS39.zip
+wget https://github.com/Computational-Rheology/PPS2024_OFCourse/raw/main/0-Setup/rheotoolPPS2024.zip
 ```
 
 ```console
-unzip rheotoolPPS39.zip
+unzip rheotoolPPS2024.zip
 ```
 
 6.3 Load openFOAM environment
@@ -110,13 +110,13 @@ unzip rheotoolPPS39.zip
 openfoam2206
 ```
 
-6.4 Change to the rheotoolPPS39 folder
+6.4 Change to the rheotoolPPS2024 folder
 
 ```console
-cd rheotoolPPS39
+cd rheotoolPPS2024
 ```
 
-6.5 Change to the rheotoolPPS39 folder
+6.5 Change to the rheotoolPPS2024 folder
 ```console
 ./downloadEigen
 ```
