@@ -6,7 +6,7 @@ Open the different folders to obtain specific instruction for the system setup a
 
 Run the following command in Windows *Command prompt*
 ```console
-wget https://github.com/Computational-Rheology/PPS2024_OFCourse/raw/main/Eigen3.2.9.zip
+wget https://github.com/Computational-Rheology/PPS2024_OFCourse/raw/main/2-CaseFiles/Eigen3.2.9.zip
 ```
 
 
