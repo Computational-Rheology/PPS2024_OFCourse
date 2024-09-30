@@ -3,3 +3,10 @@ Introduction to OpenFOAM® Computational Library and Viscoelastic Fluid Flow Sim
 
 Open the different folders to obtain specific instruction for the system setup and about the 4 course sections
 
+
+Run the following command in Windows *Command prompt*
+```console
+wget https://github.com/Computational-Rheology/PPS2024_OFCourse/raw/main/Eigen3.2.9.zip
+```
+
+
